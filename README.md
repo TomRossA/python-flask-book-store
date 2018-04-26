@@ -43,8 +43,8 @@ Or just
 
 ## Built With
 
-* [Flask](https://reactjs.org) - A JavaScript library for building user interfaces
-* [Redux](https://redux.js.org) - Predictable state container for JavaScript apps
+* [Flask](http://flask.pocoo.org) - Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
+* [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io/en/latest/) - Flask-Marshmallow is a thin integration layer for Flask
 
 ## Authors
 
